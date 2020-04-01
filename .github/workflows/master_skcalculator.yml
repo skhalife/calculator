@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'skcalculator'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_64b395ff93cf44e0a4581a7916334ad4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile }}
         package: .
