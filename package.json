@@ -4,7 +4,7 @@
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/azure-pipelines-samples/node.js"
+    "url": "https://github.com/skhalife/calculator"
   },
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,9 @@
   },
   "keywords": [
     "azure",
-    "pipelines",
+    "actions",
     "devops",
-    "vsts",
+    "workflows",
     "ci",
     "cd"
   ],
