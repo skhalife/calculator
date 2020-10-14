@@ -14,9 +14,9 @@
   },
   "keywords": [
     "azure",
-    "pipelines",
+    "actions",
     "devops",
-    "vsts",
+    "workflows",
     "ci",
     "cd"
   ],
