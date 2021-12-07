@@ -63,7 +63,7 @@ describe('Arithmetic', function() {
       request.get('/arithmetic?operation=add&operand1=42&operand2=0')
           .expect(200)
           .end(function(err, res) {
-              expect(res.body).to.eql({ result: 42 });
+              expect(res.body).to.eql({ result: 44 });
               done();
           });
     });
